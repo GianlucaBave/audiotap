@@ -1,0 +1,5 @@
+.build/
+.swiftpm/
+*.raw
+*.wav
+.DS_Store
